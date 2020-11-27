@@ -1,4 +1,4 @@
-# AWS EKS External DNS Terraform module
+# AWS EKS Kubernetes Dashboard Terraform module
 
 [![Labyrinth Labs logo](ll-logo.png)](https://www.lablabs.io)
 
@@ -11,7 +11,7 @@ We help companies build, run, deploy and scale software and infrastructure by em
 
 ## Description
 
-A terraform module to deploy an ExternalDNS on Amazon EKS cluster.
+A terraform module to deploy an Kubernetes Dashboard on Amazon EKS cluster.
 
 ## Related Projects
 
