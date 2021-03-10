@@ -59,7 +59,7 @@ No Modules.
 |------|-------------|------|---------|:--------:|
 | enabled | Variable indicating whether deployment is enabled | `bool` | `true` | no |
 | helm\_chart\_name | Helm chart name to be installed | `string` | `"kubernetes-dashboard"` | no |
-| helm\_chart\_version | Version of the Helm chart | `string` | `"3.0.0"` | no |
+| helm\_chart\_version | Version of the Helm chart | `string` | `"4.0.2"` | no |
 | helm\_release\_name | Helm release name | `string` | `"kubernetes-dashboard"` | no |
 | helm\_repo\_url | Helm repository | `string` | `"https://kubernetes.github.io/dashboard"` | no |
 | k8s\_create\_namespace | Whether to create k8s namespace with name defined by `k8s_namespace` | `bool` | `true` | no |
